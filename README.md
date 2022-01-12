@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drbenn, also known as Dan
-- 👀 I’m interested in ... Shifting careers from accounting to web development and eventually software engineering.
-- 🌱 I’m currently learning ...Javascript, React and the endless pursuit of centering in CSS
+- 👀 I’m interested in ... Shifting careers from accounting to web development and software engineering.
+- 🌱 I’m currently learning ...Expanding my skillset to include Java, AWS and Docker
 - 💞️ I’m looking to collaborate on ...multi-functional websites
-- 📫 How to reach me ...bennett.daniel@gmail.com
+- 📫 How to reach me ...danbennett.dev or directly at bennett.daniel@gmail.com
 
 
