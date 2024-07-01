@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Dan
-- 🌱 I’m currently working with ...my freshest repo
-- 📫 How to reach me ...danbennett.dev or directly at bennett.daniel@gmail.com
-
+## How to reach me
+[![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennett.daniel@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennettdanielr/)
 
 ## Top Technologies
 [![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -40,3 +39,6 @@
 [![Windows badge](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Mac OS badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+
+
+![drbenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbenn&show_icons=true&theme=transparent)
