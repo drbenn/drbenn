@@ -4,7 +4,7 @@
 
 
 ## Top Technologies
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)(https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6)(https://www.typescriptlang.org/)
 ![Static Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=white&labelColor=%23E34F26&color=%23E34F26)(https://angular.dev/)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000&color=000000)(https://reactjs.org/)
