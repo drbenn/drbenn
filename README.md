@@ -41,4 +41,4 @@
 [![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 
 
-![drbenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbenn&show_icons=true&theme=transparent&bg_color=f1f1f1)
+![drbenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbenn&show_icons=true&theme=shadow_blue)
