@@ -25,6 +25,7 @@
 [![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)](https://www.mysql.com/)
 [![Static Badge](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)](https://www.postgresql.org/)
 [![Static Badge](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248&color=%2347A248)](https://www.mongodb.com/)
+[![Static Badge](https://img.shields.io/badge/typeorm-white?style=for-the-badge&logo=typeorm&logoColor=white&labelColor=%FE0803&color=%FE0803)](https://www.typeorm.io/)
 
 [![Static Badge](https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=%230E353D&color=%230E353D)](https://www.gnu.org/software/bash/)
 [![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)](https://www.python.org/)
