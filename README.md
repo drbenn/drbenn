@@ -16,6 +16,7 @@
 [![Static Badge](https://img.shields.io/badge/PrimeFlex-white?style=for-the-badge&logoColor=white&labelColor=%2300e0a8&color=%2300e0a8)](https://primeflex.org/)
 [![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=%2306B6D4)](https://tailwindcss.com/)
 [![Static Badge](https://img.shields.io/badge/shadcn%2Fui-white?style=for-the-badge&logo=shadcn%2Fui&logoColor=white&labelColor=%23000000&color=%23000000)](https://ui.shadcn.com/)
+[![Static Badge](https://img.shields.io/badge/daisyui-white?style=for-the-badge&logoColor=white&labelColor=%2300e0a8&color=%2300e0a8)](https://daisyui.com/)
 
 [![Static Badge](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=white&labelColor=%235FA04E&color=%235FA04E)](https://nodejs.org/en/about/)
 [![Static Badge](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=white&labelColor=%23000000&color=%23000000)](https://expressjs.com/)
